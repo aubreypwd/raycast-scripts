@@ -1,1 +1,1 @@
-lib/raycast/script-command/commands/web-searches/app-store.sh
+lib/raycast/script-commands/commands/web-searches/app-store.sh

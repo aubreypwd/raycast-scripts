@@ -1,1 +1,1 @@
-lib/raycast/script-command/commands/developer-utils/search-script-command.sh
+lib/raycast/script-commands/commands/developer-utils/search-script-command.sh

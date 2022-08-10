@@ -1,3 +1,3 @@
-[submodule "lib/raycast/script-command"]
-	path = lib/raycast/script-command
+[submodule "lib/raycast/script-commands"]
+	path = lib/raycast/script-commands
 	url = git@github.com:raycast/script-commands.git

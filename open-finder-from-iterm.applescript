@@ -1,1 +1,1 @@
-lib/raycast/script-command/commands/navigation/open-finder-from-iterm.applescript
+lib/raycast/script-commands/commands/navigation/open-finder-from-iterm.applescript
