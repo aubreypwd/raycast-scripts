@@ -1,0 +1,1 @@
+lib/raycast/script-commands/commands/math/random-number.sh
