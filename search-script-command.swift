@@ -1,0 +1,1 @@
+lib/raycast/script-command/commands/developer-utils/search-script-command.swift
